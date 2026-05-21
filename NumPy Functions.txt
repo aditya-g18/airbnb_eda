@@ -1,0 +1,115 @@
+NumPy Functions
+
+Common NumPy functions (jo np. se start hote hain)
+
+
+np.array()	list ko array banata
+
+np.zeros()	sirf 0 wala array
+
+np.ones()	sirf 1 wala array
+
+np.arange()	range me numbers
+
+np.linspace()	equal gap me numbers
+
+np.empty()	empty array
+
+np.eye()	identity matrix
+
+Shape / dimension wale
+
+np.reshape()	shape change
+
+np.ravel()	1D me convert
+
+np.flatten()	flat array
+
+np.transpose()	rows ↔ columns
+
+np.expand_dims()	dimension add
+
+np.squeeze()	extra dimension remove
+
+Math operations
+
+np.sum()	total
+
+np.mean()	average
+
+np.median()	median
+
+np.std()	standard deviation
+
+np.var()	variance
+
+np.min()	minimum
+
+np.max()	maximum
+
+Element wise math
+
+Function	Kaam
+
+np.sqrt()	square root
+
+np.square()	square
+
+np.exp()	exponent
+
+np.log()	log
+
+np.abs()	absolute value
+
+Combine / split
+
+np.concatenate()	arrays jodna
+
+np.vstack()	vertically jodna
+
+np.hstack()	horizontally jodna
+
+np.split()	array todna
+
+np.array_split()	unequal split
+
+Random functions
+
+np.random.rand()	random numbers
+
+np.random.randn()	normal distribution
+
+np.random.randint()	random integer
+
+np.random.choice()	random select
+
+2️⃣ Array attributes (jo array_name. se start hote hain)
+
+a.shape	rows × columns
+
+a.ndim	dimensions
+
+a.size	total elements
+
+a.dtype	data type
+
+a.T	transpose
+
+a.itemsize	memory size
+
+3️⃣ Important array methods (jo array. se start hote hain)
+
+
+a.reshape()	shape change
+
+a.flatten()	1D array
+
+a.ravel()	flatten
+
+a.copy()	copy array
+
+a.sort()	sort
+
+a.argmax()	max index
+
+a.argmin()	min index
